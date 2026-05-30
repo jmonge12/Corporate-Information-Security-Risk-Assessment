@@ -49,4 +49,4 @@ Para mitigar los riesgos críticos identificados en los niveles inaceptables de 
 ## Documentación Completa del Caso de Estudio
 El informe académico formal con el desarrollo de todo el contexto de la empresa, las dimensiones detalladas y las conclusiones del análisis se encuentra disponible para su descarga en la raíz de este repositorio:
 
-* [Descargar Informe Completo de Gestión de Riesgos (Cenfo Ice Ice Baby)]()
+* [Descargar Informe Completo de Gestión de Riesgos (Cenfo Ice Ice Baby)](https://github.com/jmonge12/Corporate-Information-Security-Risk-Assessment/blob/7bdf9d1260ec9b249d636e7ec8e5163b8ec570b9/CIB10_M2_P001_Cenfo_Ice_Riesgos%20(1).pdf)
